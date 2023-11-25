@@ -12,6 +12,17 @@
 *기울기*
 
 
+xptmxm
+수정
+
+
+git test 
+
+
+
+
+
+
 git add
 
 - 리스트 ---
